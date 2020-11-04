@@ -3,9 +3,37 @@
 }
 
 .smaller_block {
-    width: 75%;
+    width: 60%;
+    margin: auto;
 }
 
 .header-block {
     text-align: center;
+    font-size: 48px;
+}
+.nav_block {
+  font-size: 32px;
+  border-bottom: 2px solid black;
+}
+
+.blog_titles {
+  font-size: 24px;
+}
+
+#myInput {
+  text-align: center;
+}
+
+ul {
+  text-align: right
+}
+
+li {
+  display: inline;
+  padding-right: 20px;
+}
+
+a {
+  color: black;
+  text-decoration: none;
 }
